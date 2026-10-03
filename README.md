@@ -1,3 +1,15 @@
-# codyssey ai basic course
+# 체크리스트 파일 목록
 
-## 과정4 :신기한 이야기들 그리고 자라나는 희망
+- [SSH 보안 및 모니터링 자동화 체크리스트](./ssh_security_monitoring.md)
+- [관계형 데이터베이스 설계와 SQL 체크리스트](./relational_database_sql.md)
+- [Python CLI 가계부 애플리케이션 체크리스트](./python_cli_budget_app.md)
+- [반응형 웹 UI와 JavaScript 체크리스트](./responsive_web_javascript.md)
+- [Git 커밋 그래프 시뮬레이터 체크리스트](./git_commit_graph_simulator.md)
+- [장애 트러블슈팅 OOM CPU Deadlock 체크리스트](./troubleshooting_oom_cpu_deadlock.md)
+- [Redis 스타일 인메모리 DB 체크리스트](./redis_in_memory_db.md)
+- [AWS VPC EC2 배포 체크리스트](./aws_vpc_ec2_deploy.md)
+- [GitHub Flow 팀 협업 체크리스트](./github_flow_team_collaboration.md)
+- [AI 커밋 PR 생성 도구 체크리스트](./ai_commit_pr_generator.md)
+- [React CRUD 애플리케이션 체크리스트](./react_crud_app.md)
+- [FastAPI SQLite SSR CRUD 체크리스트](./fastapi_sqlite_ssr_crud.md)
+- [FastAPI 인증 도메인 서비스 체크리스트](./fastapi_auth_domain_service.md)
